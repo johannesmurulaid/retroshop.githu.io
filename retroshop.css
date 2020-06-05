@@ -1,0 +1,30 @@
+body{
+	background-color: cornsilk;	
+}	
+.box{
+    display:inline-grid;
+    padding: 0.8em;
+    border-style: solid;
+    border-color: grey;
+    margin: 1em;
+    height: auto;
+    width: 12em;
+    text-align:center;
+
+}
+#shop{
+    display: inline-block;
+    width: 100px;
+}
+.icon{
+    width: 100px;
+}
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+label{
+  width : 240px;  
+  display: inline-block; 
+  text-align: left;  
+}
